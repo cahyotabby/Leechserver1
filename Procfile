@@ -1,4 +1,4 @@
 web: npm start
-web: npm install -g peerflix-server
-peerflix-server
-web: npm install -g forever
+web: npm start
+web: npm start
+web: npm start
